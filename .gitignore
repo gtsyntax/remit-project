@@ -1,3 +1,5 @@
 venv/
 src/src/
+src/user_profile/migrations
 src/db.sqlite3
+.idea/
